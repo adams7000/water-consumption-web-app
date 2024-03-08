@@ -1,0 +1,5 @@
+pandas==1.5.3
+numpy==1.25.0
+plotly==5.15.0
+statsmodel==0.14.0
+dash==2.13.0
